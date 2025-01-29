@@ -1,9 +1,12 @@
 # JavaScript Concepts
 
-This will utilize the Deno Kernel for the Jupyter notebooks. 
+This repository is strictly for my personal learning use. While I may reference various resources, the purpose of this repository is solely to aid my understanding of JavaScript concepts using the Deno Kernel for Jupyter notebooks. It is not intended as a comprehensive documentation or guide for others.
 
 # Concepts to be Covered
 1. Fundamentals
+    - Use Strict, Polyfills, Transpilers
+    - Variables
+    - 
 2. Objects & Object Properties
 3. Data Types
 4. Advanced Functions
