@@ -6,7 +6,7 @@
 
 This repository is strictly for my personal learning use. While I may reference various resources, the purpose of this repository is solely to aid my understanding of JavaScript concepts using the Deno Kernel for Jupyter notebooks. It is not intended as a comprehensive documentation or guide for others.
 
-References are provided throughout, and the ENTIRE, and I mean ENTIRE, repository can be subject to changes over time. This is a life-long refinement of my knowledge in JavaScript, and cool things I learn.
+References are provided throughout, and the ENTIRE, and I mean ENTIRE, repository can be subject to changes over time. This is a lifelong refinement of my knowledge in JavaScript, as well as cool things I learn.
 
 The following are the concepts that are covered:
 
