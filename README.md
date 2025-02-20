@@ -1,5 +1,3 @@
-# JavaScript Concepts
-
 <div align="center">
     <img src="0_assets/profile.PNG"></img>
 </div>
