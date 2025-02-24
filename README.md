@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="0_assets/profile.PNG"></img>
+    <img src="0_assets/1.PNG"></img>
 </div>
 
 ## Concepts to be Covered
