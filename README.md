@@ -11,13 +11,21 @@ References are provided throughout, and the ENTIRE, and I mean ENTIRE, repositor
 The following are the concepts that are covered:
 
 1. Fundamentals
-2. Objects & Object Properties
-3. Data Types
-4. Advanced Functions
-5. Classes
-6. Error Handling 
-7. Promises
-8. Async/Await
-9. Modules
-10. Fetch
+2. Data Types
+    - Numbers.
+    - Strings.
+    - Objects.
+    - Arrays.
+    - Iterables.
+    - Map and Set.
+    - WeakMap and WeakSet.
+    - Date and Time.
+    - Destructuring.
+    - JSON.
+3. Advanced Functions
+4. Classes
+5. Promises
+6. Async/Await
+7. Modules
+8. Fetch
 
